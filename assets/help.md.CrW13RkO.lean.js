@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as i,ae as l}from"./chunks/framework.6vKcgtAV.js";const s=JSON.parse('{"title":"MixFile介绍","description":"","frontmatter":{},"headers":[],"relativePath":"help.md","filePath":"help.md"}'),t={name:"help.md"};function b(o,a,d,h,p,n){return i(),r("div",null,a[0]||(a[0]=[l("",28)]))}const f=e(t,[["render",b]]);export{s as __pageData,f as default};
